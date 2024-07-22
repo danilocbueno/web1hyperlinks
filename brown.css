@@ -1,0 +1,23 @@
+.caixa {
+    background-color: silver;
+    width: 313.33px;
+    height: 200px;
+}
+
+.caixa-especial {
+    background-color: silver;
+    width: 656.66px;
+    height: 200px;
+}
+
+.linha {
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+    margin-top:30px;
+}
+
+#site {
+    margin: 0 auto;
+    width: 1000px;
+}

@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    margin: 5px;
+}
+
+.underline-link:hover{
+    text-decoration: underline;
+}
+
+.bg-link:hover {
+    background-color: silver;
+}
+
+#navegacao {
+    margin: 0 auto;
+    width: 960px;
+
+    background-color: #195128;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.esquerda {
+
+}
+
+.direita {
+ 
+}
